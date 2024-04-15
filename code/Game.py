@@ -29,5 +29,3 @@ class Game:
             else:
                 pygame.quit()
                 sys.exit()
-
-
